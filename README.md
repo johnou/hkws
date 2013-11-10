@@ -1,4 +1,4 @@
 hkws
 ====
 
-Hotkey websocket server
+Hotkey websocket server.
