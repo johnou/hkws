@@ -1,0 +1,4 @@
+hkws
+====
+
+Hotkey websocket server
