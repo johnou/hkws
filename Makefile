@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall
 INCLUDES = -Icwebsocket/lib
-LIBS = -lX11 -lpthread
+LIBS = -lX11 -lXtst -lpthread
 DEPS = cwebsocket/lib/websocket.h
 OBJ = cwebsocket/lib/base64_enc.o cwebsocket/lib/sha1.o cwebsocket/lib/websocket.o server.o
 
